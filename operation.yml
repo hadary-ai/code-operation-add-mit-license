@@ -1,0 +1,7 @@
+title: "Add MIT license"
+
+description: "For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software."
+
+add:
+  - file: 'LICENSE'
+    path: '/'
